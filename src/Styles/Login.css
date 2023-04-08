@@ -1,0 +1,48 @@
+.form-cont
+{
+
+position:relative; 
+
+} 
+.md-input
+{
+    margin-bottom: 1.5rem;
+}
+
+.rightside
+{
+padding: 10px 34px 43px 36px !important;
+margin-top:113px !important; 
+border-radius: 0.375rem;
+
+}
+.leftside
+{
+margin-top:153px; 
+color:aliceblue;
+
+}
+.loginbtn
+{
+color:aliceblue;
+background:#dd1d89;
+border-radius: 0.375rem;
+border-color: #dd1d89;
+padding: 9px 45px 9px 45px;
+display: flex;
+margin: auto;
+}
+.loginbtn:hover
+{
+
+    background:#d91a1a; 
+    border-color:#d91a1a;
+
+}
+h1
+{
+color:aliceblue; 
+display:flex;
+justify-content: center;
+
+}
